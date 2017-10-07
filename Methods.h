@@ -79,6 +79,10 @@ uint8_t dataPin = 10;
 
 uint8_t leds = 0;
 
+void hello()
+{
+  printf("hello everyone");
+}
 /*
 typedef struct
 {
